@@ -43,19 +43,18 @@ Backend/
 ## ⚙️ Variables de Entorno (.env)
 
 ```env
-FLASK_ENV=development
-PORT=5000
-DEBUG=True
-
+FLASK_ENV=
+PORT=
+DEBUG=
 # DB
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=tu_password
-DB_NAME=gestion_eclesial
+DB_HOST=
+DB_USER=
+DB_PASSWORD=
+DB_NAME=
 
 # JWT
-JWT_SECRET_KEY=supersecreto
-SECRET_KEY=otrosecreto
+JWT_SECRET_KEY=
+SECRET_KEY=
 ```
 
 ---
