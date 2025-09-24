@@ -1,0 +1,17 @@
+stylePruebas.css
+scriptPrueba.js
+estilosreserva.css
+
+Pruebas.html
+modificarcita.html
+prueba.html
+prueba.js
+script-q.js
+
+.venv
+venv
+
+__pycache__/
+*.pyc
+
+create_test_user.py
