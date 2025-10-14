@@ -11,6 +11,12 @@ script-q.js
 .venv
 venv
 
+stylePruebas.css
+UserManagment.css
+
+viejos_js
+viejos_css
+
 __pycache__/
 *.pyc
 
